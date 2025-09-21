@@ -1,2 +1,2 @@
 # CSC500-Module6
-A Python OOP project featuring ItemToPurchase and ShoppingCart classes. This application provides a command-line interface for users to add, remove, and modify items while calculating a running total and displaying a cart summary.
+This repository contains a Python program for a basic online shopping cart. It utilizes object-oriented programming (OOP) principles by defining two classes: ItemToPurchase and ShoppingCart. The program implements a menu-driven command-line interface that allows users to add, remove, and modify items in the cart, as well as calculate and display the total cost and item descriptions.
